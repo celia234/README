@@ -37,5 +37,6 @@ while True:
     # To debug: print("Debug messages...", file=sys.stderr)
 
     # The index of the mountain to fire on.
-    print(m)        
+    print(m)
+    
         
