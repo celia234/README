@@ -11,7 +11,8 @@ def factorielle(n):
         return n * factorielle(n - 1)
 print(factorielle(3))       
 
-#J'ai fait un [jeu](https://www.codingame.com/ide/puzzle/the-descent) en ligne où le but était de détruire des montagnes afin de passer par dessus sans se faire écraser. Le programme ci-dessous est la solution du jeu :
+#J'ai fait un [jeu](https://www.codingame.com/ide/puzzle/the-descent) en ligne où le but était de détruire des montagnes afin de
+passer par dessus sans se faire écraser. Le programme ci-dessous est la solution du jeu :
 
 import sys
 import math
