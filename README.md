@@ -12,3 +12,8 @@ https://repl.it/repls/SilkyLinedGames
 
 et pour se lancer des défis entre developpeurs et apprendre à coder 
 https://codefights.com/
+
+et d'autres endroits pour programmer en jouant
+https://medium.mybridge.co/12-free-resources-learn-to-code-while-playing-games-f7333043de11
+
+
